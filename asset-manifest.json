@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Restaurant-management-using-react-redux/static/js/main.b1c1eb8a.chunk.js",
+    "main.js.map": "/Restaurant-management-using-react-redux/static/js/main.b1c1eb8a.chunk.js.map",
+    "runtime-main.js": "/Restaurant-management-using-react-redux/static/js/runtime-main.8ebf8409.js",
+    "runtime-main.js.map": "/Restaurant-management-using-react-redux/static/js/runtime-main.8ebf8409.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Restaurant-management-using-react-redux/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8d7b2132.chunk.js": "/Restaurant-management-using-react-redux/static/js/2.8d7b2132.chunk.js",
+    "static/js/2.8d7b2132.chunk.js.map": "/Restaurant-management-using-react-redux/static/js/2.8d7b2132.chunk.js.map",
+    "index.html": "/Restaurant-management-using-react-redux/index.html",
+    "precache-manifest.a1430594faf5cf3756648dc9ab4295a9.js": "/Restaurant-management-using-react-redux/precache-manifest.a1430594faf5cf3756648dc9ab4295a9.js",
+    "service-worker.js": "/Restaurant-management-using-react-redux/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Restaurant-management-using-react-redux/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.8d7b2132.chunk.js.LICENSE.txt": "/Restaurant-management-using-react-redux/static/js/2.8d7b2132.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ebf8409.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8d7b2132.chunk.js",
+    "static/js/main.b1c1eb8a.chunk.js"
+  ]
+}
